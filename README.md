@@ -2,9 +2,8 @@
 <h1 align="center">Hola 👋, Soy xGHOST</h1>
 <h3 align="center">Un tipo chill que programa cosas ramdon</h3>
 
-¡Hola! soy xGHOST ✨
-
-Un apasionado por la programación y aprendiz de nuevas cosas, tambien soy propietario de algunos proyectos independientes con el conocimiento previo y ayuda de algunos conocidos.
+¡Hola!
+soy un apasionado por la programación y aprendiz de nuevas cosas, tambien soy propietario de algunos proyectos independientes con el conocimiento previo y ayuda de algunos conocidos.
 
 <h3 align="center" style="font-family: Arial, sans-serif; color: #4c7daf; font-size: 28px; margin-bottom: 20px;">
   <a href="https://github.com/xghostxz" target="_blank" style="text-decoration: none; color: inherit;">
