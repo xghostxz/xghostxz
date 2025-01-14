@@ -71,67 +71,64 @@ Un apasionado por la programación y aprendiz de nuevas cosas, tambien soy propi
 
 
 <!--                      -->
-<h3 align="center" style="font-family: Arial, sans-serif; color: #aacffb; font-size: 28px; margin-bottom: 20px;">Conéctate conmigo</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; color: #aacffb; font-size: 30px; margin-bottom: 20px;">Conéctate conmigo</h3>
 <p align="center">
-  <a href="https://twitter.com/_ghostgg" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="_ghostgg" height="40" width="40" style="margin-right: 15px; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%); border-radius: 50%;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)'; this.style.fill='#aacffb'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)'; this.style.fill='none'"/>
+  <a href="https://twitter.com/_ghostgg" target="_blank" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="_ghostgg" height="40" width="40" style="border-radius: 50%; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%);" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)';"/>
   </a>
-  <a href="https://discord.gg/f3WUfUr4jt" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="discord.gg/f3WUfUr4jt" height="40" width="40" style="margin-right: 15px; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%); border-radius: 50%;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)'; this.style.fill='#aacffb'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)'; this.style.fill='none'"/>
+  <a href="https://discord.gg/f3WUfUr4jt" target="_blank" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="discord.gg/f3WUfUr4jt" height="40" width="40" style="border-radius: 50%; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%);" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)';"/>
   </a>
-  <a href="https://github.com/xghostxz" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" width="40" style="margin-right: 15px; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%); border-radius: 50%;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)'; this.style.fill='#aacffb'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)'; this.style.fill='none'"/>
+  <a href="https://github.com/xghostxz" target="_blank" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" width="40" style="border-radius: 50%; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%);" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)';"/>
   </a>
-  <a href="https://instagram.com/ghost.gg.off" target="_blank" style="text-decoration:none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" style="margin-right: 15px; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%); border-radius: 50%;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)'; this.style.fill='#aacffb'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)'; this.style.fill='none'"/>
+  <a href="https://instagram.com/ghost.gg.off" target="_blank" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" style="border-radius: 50%; transition: transform 0.3s ease, filter 0.3s ease; filter: grayscale(100%);" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='grayscale(0%)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(100%)';"/>
   </a>
 </p>
 
-
-  
-
-<h3 align="center" style="font-family: Arial, sans-serif; color: #aacffb; font-size: 28px; margin-bottom: 20px;">Lenguajes y Herramientas:</h3>
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li style="display: inline-block; margin-right: 20px;">
+<h3 align="center" style="font-family: Arial, sans-serif; color: #aacffb; font-size: 30px; margin-bottom: 20px;">Lenguajes y Herramientas</h3>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>CSS3</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">CSS3</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>HTML5</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">HTML5</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>Java</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">Java</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>JavaScript</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">JavaScript</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>MySQL</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">MySQL</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>PHP</p>
-  </li>
-  <li style="display: inline-block; margin-right: 20px;">
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">PHP</p>
+  </div>
+  <div style="text-align: center; width: 120px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <p>Python</p>
-  </li>
-</ul>
+    <p style="color: #aacffb; font-size: 14px; margin-top: 10px;">Python</p>
+  </div>
+</div>
