@@ -3,16 +3,13 @@
 ![](https://media.discordapp.net/attachments/1320624550534185016/1329840407227662336/Picsart_25-01-17_10-50-30-403.jpg?ex=678bcde4&is=678a7c64&hm=c8990fa50990c1402a74ad541e058a9758f0a5c271ea855f78ef3b65c022ff62&=&format=webp&width=1325&height=662)
 
 <h1 align="center" style="color:rgb(255, 255, 255);">Hola 👋, Soy xGHOST</h1>
-<h3 align="center" style="color:rgb(250, 250, 250);">Un tipo chill que programa cosas ramdon</h3>
+<h3 align="center" style="color:rgb(250, 250, 250);">Un tipo chill que programa cosas random</h3>
 
-<p style="text-align: center; color:rgb(255, 255, 255);">
-  ¡Hola! Soy un apasionado por la programación y aprendiz de nuevas cosas, también soy propietario de algunos proyectos independientes con el conocimiento previo y ayuda de algunos conocidos.
+<p style="text-align: left; color:rgb(255, 255, 255); font-size: 18px; font-family: Arial, sans-serif;">
+  ¡Hola! Soy <strong>xGHOST</strong>, un <strong>Desarrollador</strong> apasionado por la programación, la tecnología y el aprendizaje constante. Mi experiencia incluye proyectos en desarrollo independiente, edición, mapeo y tutorías en diversas áreas de programación. También soy propietario de proyectos enfocados en innovación y comunidad.
 </p>
 
-<h3 align="center" style="color:#c43d3d; font-size: 28px; margin-bottom: 20px;">
-  <a href="https://github.com/xghostxz" target="_blank" style="text-decoration: none; color: #c43d3d;">
-    Proyectos Actuales
-  </a>
+<h1 align="center" style="color:rgb(255, 255, 255);">Proyectos Actuales</h1>
 </h3>
 
 <table align="center" style="border-collapse: collapse; width: 90%; margin: auto; font-family: Arial, sans-serif; color: #444; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; overflow: hidden;">
@@ -54,18 +51,41 @@
   </tbody>
 </table>
 
-<h3 align="center" style="color:#c43d3d; font-size: 30px; margin-bottom: 20px;">Conéctate conmigo</h3>
+<h1 align="center" style="color:rgb(255, 255, 255);">Proyectos Actuales</h1>
+
 <p align="center">
-  <a href="https://twitter.com/_ghostgg" target="_blank" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="_ghostgg" height="40" width="40" style="border-radius: 50%; filter: brightness(0.7) sepia(1) hue-rotate(0deg); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1) sepia(1) hue-rotate(0deg)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.7) sepia(1) hue-rotate(0deg)';"/>
-  </a>
-  <a href="https://discord.gg/f3WUfUr4jt" target="_blank" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" height="40" width="40" style="border-radius: 50%; filter: brightness(0.7) sepia(1) hue-rotate(0deg); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1) sepia(1) hue-rotate(0deg)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.7) sepia(1) hue-rotate(0deg)';"/>
-  </a>
-  <a href="https://github.com/xghostxz" target="_blank" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" width="40" style="border-radius: 50%; filter: brightness(0.7) sepia(1) hue-rotate(0deg); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1) sepia(1) hue-rotate(0deg)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.7) sepia(1) hue-rotate(0deg)';"/>
-  </a>
-  <a href="https://instagram.com/ghost.gg.off" target="_blank" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" style="border-radius: 50%; filter: brightness(0.7) sepia(1) hue-rotate(0deg); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1) sepia(1) hue-rotate(0deg)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(0.7) sepia(1) hue-rotate(0deg)';"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%239940CC.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Pawn-%230082BE.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJDOS40MyAyIDcgNC40MyA3IDdDOTAzIDMgMCAxMiIvPjwvc3ZnPg==" alt="Pawn" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<h1 align="center" style="color:rgb(255, 255, 255);">Redes Sociales</h1>
+
+<div align="center">
+  <a href="https://discord.com/users/ghostgg_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Add%20Me!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/_ghostgg" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20Me!-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/xghostxze" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Check%20Out!-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/ghost.gg.off" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/xGHOSTGG" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me!-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+
+<h1> MAS EN BREVE...</h1>
