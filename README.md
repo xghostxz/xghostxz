@@ -86,8 +86,5 @@
     <img src="https://img.shields.io/badge/Telegram-Message%20Me!-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xghostxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <h1> MAS EN BREVE...</h1>
 
