@@ -1,6 +1,6 @@
 
 
-![](https://media.discordapp.net/attachments/1176653571308142736/1334560544610455625/Picsart_25-01-17_10-50-30-403.png?ex=679cf9dc&is=679ba85c&hm=b53b31d3638eb9a6ca616cac498131c738b8d8fbd21fdfe6a43837981ea4bd03&=&format=webp&quality=lossless&width=756&height=378)
+![](https://imgur.com/a/6SE9nux)
 
 <h1 align="center" style="color:rgb(255, 255, 255);">Hola 👋, Soy xGHOST</h1>
 <h3 align="center" style="color:rgb(250, 250, 250);">Un tipo chill que programa cosas random</h3>
