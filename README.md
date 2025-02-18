@@ -1,6 +1,6 @@
 
 
-![](https://imgur.com/q0n5yAf)
+![](https://i.imgur.com/q0n5yAf.png)
 
 <h1 align="center" style="color:rgb(255, 255, 255);">Hola 👋, Soy xGHOST</h1>
 <h3 align="center" style="color:rgb(250, 250, 250);">Un tipo chill que programa cosas random</h3>
