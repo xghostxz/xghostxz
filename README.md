@@ -26,10 +26,10 @@
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
       <td style="padding: 20px; font-size: 18px;">Marbella RolePlay</td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-v2.3-red" alt="Versión 2.3" />
+        <img src="https://img.shields.io/badge/Version-v3.5-purple" alt="Versión 3.5" />
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow.svg" alt="En desarrollo" />
+        <img src="https://img.shields.io/badge/Estado-En%20 Pausa-purple.svg" alt="En Pausa" />
       </td>
     </tr>
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
@@ -38,17 +38,17 @@
         <img src="https://img.shields.io/badge/Version-v15.00x-green" alt="Versión 15.00x" />
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20proceso-orange.svg" alt="En proceso" />
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-green.svg" alt="En proceso" />
       </td>
     </tr>
     <tr style="background-color: #e57373;">
       <td style="padding: 20px; font-size: 18px;">Horizon Studios</td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-Alpha-red" alt="Alpha" />
+        <img src="https://img.shields.io/badge/Version-Producción-blue" alt="Prod" />
       </td>
       <td style="padding: 20px; text-align: center;">
         <a href="https://horizon-studios.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blue.svg" alt="En desarrollo" />
+          <img src="https://img.shields.io/badge/Estado-%20Público-blue.svg" alt="Público" />
         </a>
       </td>
     </tr>
