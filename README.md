@@ -85,7 +85,7 @@
   <a href="https://github.com/xghostxze" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Check%20Out!-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/ghost.gg.off" target="_blank">
+  <a href="https://instagram.com/ghostggm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/xGHOSTGG" target="_blank">
