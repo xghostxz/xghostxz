@@ -33,23 +33,23 @@
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
       <td style="padding: 20px; font-size: 18px;">Ethernal OTserver</td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-v13.40x-red" alt="Versión 15.02x" />
+        <img src="https://img.shields.io/badge/Version-v15.00x-green" alt="Versión 15.00x" />
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20proceso-green.svg" alt="En Desarrollo..." />
+        <img src="https://img.shields.io/badge/Estado-En%20proceso-orange.svg" alt="En proceso" />
       </td>
-    </tr>
-    <tr style="background-color: #e57373;">
-      <td style="padding: 20px; font-size: 18px;">Horizon Studios</td>
-      <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-Alpha-red" alt="Alpha" />
-      </td>
-      <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow.svg" alt="En desarrollo" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+<tr style="background-color: #e57373;">
+  <td style="padding: 20px; font-size: 18px;">Horizon Studios</td>
+  <td style="padding: 20px; text-align: center;">
+    <img src="https://img.shields.io/badge/Version-Alpha-red" alt="Prod" />
+  </td>
+  <td style="padding: 20px; text-align: center;">
+    <a href="https://horizon-studios.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blue.svg" alt="Publico" />
+    </a>
+  </td>
+</tr>
 
 <h1 align="center" style="color:rgb(255, 255, 255);">Proyectos Actuales</h1>
 
