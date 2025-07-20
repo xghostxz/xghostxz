@@ -33,10 +33,10 @@
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
       <td style="padding: 20px; font-size: 18px;">Ethernal OTserver</td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-v13.40x-red" alt="Versión 13.40x" />
+        <img src="https://img.shields.io/badge/Version-v13.40x-red" alt="Versión 15.02x" />
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20proceso-orange.svg" alt="En proceso" />
+        <img src="https://img.shields.io/badge/Estado-En%20proceso-green.svg" alt="En Desarrollo..." />
       </td>
     </tr>
     <tr style="background-color: #e57373;">
