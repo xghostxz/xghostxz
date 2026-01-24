@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/q0n5yAf.png" alt="Banner" style="width: 100%; border-radius: 10px;" />
+<img src="https://i.imgur.com/0ONjwXz.gif" alt="Banner" style="width: 100%; border-radius: 10px;" />
 
 <!-- Título de Presentación -->
 <h1 align="center" style="color: rgb(255, 255, 255);">Hola 👋, Soy xGHOST</h1>
@@ -26,10 +26,10 @@
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
       <td style="padding: 20px; font-size: 18px;">Marbella RolePlay</td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Version-v3.5-purple" alt="Versión 3.5" />
+        <img src="https://img.shields.io/badge/Version-v3.5-black" alt="Versión 3.5" />
       </td>
       <td style="padding: 20px; text-align: center;">
-        <img src="https://img.shields.io/badge/Estado-En%20 Pausa-purple.svg" alt="En Pausa" />
+        <img src="https://img.shields.io/badge/Estado-En%20 Pausa-black.svg" alt="En Pausa" />
       </td>
     </tr>
     <tr style="background-color: #e57373; border-bottom: 1px solid #ddd;">
@@ -82,13 +82,13 @@
   <a href="https://twitter.com/_ghostgg" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow%20Me!-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
-  <a href="https://github.com/xghostxze" target="_blank">
+  <a href="https://github.com/xghostxz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Check%20Out!-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/ghostggm" target="_blank">
+  <a href="https://instagram.com/ghostggm_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/xGHOSTGG" target="_blank">
+  <a href="https://t.me/Gaboyzk" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Message%20Me!-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
