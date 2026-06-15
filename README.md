@@ -92,23 +92,11 @@ Abierto a:
 1. 🚀 Lanzada nueva versión de **Ethernal OTserver** con sistema de guilds mejorado<br>
 2. 🔧 Fixeando bugs en **Marbella RolePlay** (sistema de vehículos)<br>
 3. 📝 Publicando documentación para **Horizon Studios**<br>
-4. ⭐ Explorando nuevos frameworks para la web de Horizon Studios<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
 Última actualización: Monday, June 15th, 2026
 <!--RECENT_ACTIVITY:last_update_end-->
-
----
-
-### 🎯 Proyectos Destacados
-
-| Proyecto | Estado | Tech |
-|----------|--------|------|
-| 🏖️ **Marbella RolePlay** | ⏸️ Pausado | Pawn, MySQL |
-| ⚡ **Ethernal OTserver** | 🔄 En desarrollo | C++, Lua, SQLite |
-| 🎬 **Horizon Studios** | 🌐 Público | HTML, CSS, JS |
-
 ---
 
 <p align="center">
