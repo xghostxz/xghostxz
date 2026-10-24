@@ -1,4 +1,4 @@
-## 👋 Hola, Soy xGHOST
+## 👋 Hola, Soy Gabo
 
 Desarrollador indie apasionado por crear experiencias únicas en roleplay, servidores open-source y herramientas random que resuelven problemas reales. Adaptable, autodidacta y enfocado en código limpio y colaboración.
 
@@ -6,7 +6,7 @@ Desarrollador indie apasionado por crear experiencias únicas en roleplay, servi
 
 ### 🧑‍💻 Sobre Mí
 
-- 🎮 **Especialista en ecosistemas RolePlay** y servidores de juego (SA:MP, Open Tibia)
+- 🎮 **Especialista en ecosistemas** y servidores de juego (SA:MP, Open Tibia)
 - 🧠 Autodidacta, aprendo construyendo proyectos reales
 - 🛠️ Desarrollo **desde cero** proyectos que combinan lógica backend y experiencia de usuario
 - 🤝 Amo los **equipos colaborativos**, comunicación clara y código que cualquiera pueda mantener
